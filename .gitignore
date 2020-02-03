@@ -1,0 +1,7 @@
+.git/
+.bld/*
+.lib/*
+.bin/*
+attention/venv/*
+data/*
+model/*
